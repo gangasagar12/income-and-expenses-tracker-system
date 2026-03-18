@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace income_and_expenses_tracker.models
+namespace Expense_Tracker.Models
 {
     public class Category
     {
@@ -14,6 +9,7 @@ namespace income_and_expenses_tracker.models
         public int CategoryId { get; set; }
 
         [Column(TypeName = "nvarchar(50)")]
+        [Required(ErrorMessage = "Title is required.")]
         public string Title { get; set; }
 
         [Column(TypeName = "nvarchar(5)")]
@@ -21,5 +17,14 @@ namespace income_and_expenses_tracker.models
 
         [Column(TypeName = "nvarchar(10)")]
         public string Type { get; set; } = "Expense";
+
+        [NotMapped]
+        public string? TitleWithIcon
+        {
+            get
+            {
+                return this.Icon + " " + this.Title;
+            }
+        }
     }
 }
