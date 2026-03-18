@@ -1,0 +1,5 @@
+C:\Users\Chandra kant joshi\Desktop\MS word\income and expenses tracker\obj\Debug\income and expenses tracker.csproj.AssemblyReference.cache
+C:\Users\Chandra kant joshi\Desktop\MS word\income and expenses tracker\obj\Debug\income_and_expenses_tracker.Form1.resources
+C:\Users\Chandra kant joshi\Desktop\MS word\income and expenses tracker\obj\Debug\income_and_expenses_tracker.Properties.Resources.resources
+C:\Users\Chandra kant joshi\Desktop\MS word\income and expenses tracker\obj\Debug\income and expenses tracker.csproj.GenerateResource.cache
+C:\Users\Chandra kant joshi\Desktop\MS word\income and expenses tracker\obj\Debug\income and expenses tracker.csproj.CoreCompileInputs.cache

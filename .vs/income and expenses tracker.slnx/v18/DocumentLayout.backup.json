@@ -3,11 +3,75 @@
   "WorkspaceRootPath": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\addexpensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:addexpensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\addincomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:addincomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\bll\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:bll\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\models\\savinggoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:models\\savinggoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\models\\butget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:models\\butget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\bll\\incomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:bll\\incomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\database\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:database\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\database\\incomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:database\\incomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\database\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:database\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\models\\savinggoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:models\\savinggoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\models\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:models\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|c:\\users\\chandra kant joshi\\desktop\\ms word\\income and expenses tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9A220D06-77BA-40E2-AB99-2A985C2A7D84}|income and expenses tracker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,36 +82,242 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:52:02.253Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T10:16:47.542Z",
+              "WhenOpened": "2026-03-17T16:51:50.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddIncomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\AddIncomeForm.cs",
+              "RelativeDocumentMoniker": "AddIncomeForm.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\AddIncomeForm.cs",
+              "RelativeToolTip": "AddIncomeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:52:43.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddexpensesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\AddexpensesForm.cs",
+              "RelativeDocumentMoniker": "AddexpensesForm.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\AddexpensesForm.cs",
+              "RelativeToolTip": "AddexpensesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:53:13.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SavingGoal.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\SavingGoal.cs",
+              "RelativeDocumentMoniker": "models\\SavingGoal.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\SavingGoal.cs",
+              "RelativeToolTip": "models\\SavingGoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:59:26.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Expense.cs",
+              "RelativeDocumentMoniker": "models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Expense.cs",
+              "RelativeToolTip": "models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:46:36.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Category.cs",
+              "RelativeDocumentMoniker": "models\\Category.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Category.cs",
+              "RelativeToolTip": "models\\Category.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:52:57.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\BLL\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "BLL\\ExpenseService.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\BLL\\ExpenseService.cs",
+              "RelativeToolTip": "BLL\\ExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:54:59.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Transaction.cs",
+              "RelativeDocumentMoniker": "models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Transaction.cs",
+              "RelativeToolTip": "models\\Transaction.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:56:55.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Butget.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Butget.cs",
+              "RelativeDocumentMoniker": "models\\Butget.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Butget.cs",
+              "RelativeToolTip": "models\\Butget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:48:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IncomeService.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\BLL\\IncomeService.cs",
+              "RelativeDocumentMoniker": "BLL\\IncomeService.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\BLL\\IncomeService.cs",
+              "RelativeToolTip": "BLL\\IncomeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:54:11.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExpensesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Database\\ExpensesRepository.cs",
+              "RelativeDocumentMoniker": "Database\\ExpensesRepository.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Database\\ExpensesRepository.cs",
+              "RelativeToolTip": "Database\\ExpensesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:50:32.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IncomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Database\\IncomeRepository.cs",
+              "RelativeDocumentMoniker": "Database\\IncomeRepository.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Database\\IncomeRepository.cs",
+              "RelativeToolTip": "Database\\IncomeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:50:00.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Database\\DataManager.cs",
+              "RelativeDocumentMoniker": "Database\\DataManager.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Database\\DataManager.cs",
+              "RelativeToolTip": "Database\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:49:13.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SavingGoals.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\SavingGoals.cs",
+              "RelativeDocumentMoniker": "models\\SavingGoals.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\SavingGoals.cs",
+              "RelativeToolTip": "models\\SavingGoals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:48:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Income.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Income.cs",
+              "RelativeDocumentMoniker": "models\\Income.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\models\\Income.cs",
+              "RelativeToolTip": "models\\Income.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:46:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:16:47.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Chandra kant joshi\\Desktop\\MS word\\income and expenses tracker\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:56:46.102Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-16T09:56:46.102Z"
             }
           ]
         }
